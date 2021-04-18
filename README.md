@@ -109,6 +109,9 @@ dog
 get_map文件克隆自https://github.com/Cartucho/mAP  
 具体mAP计算过程可参考：https://www.bilibili.com/video/BV1zE411u7Vw
 
+## 9、可视化正确检测结果、漏检结果以及虚警
+1.主要修改GT_PATH、DR_PATH、IMG_PATH和out_path路径
+
 ## Reference
 https://github.com/chenyuntc/simple-faster-rcnn-pytorch  
 https://github.com/eriklindernoren/PyTorch-YOLOv3  
